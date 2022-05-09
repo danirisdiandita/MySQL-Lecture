@@ -1,3 +1,3 @@
 # MySQL-Lecture
 
-[INNER_jOIN.sql](MySQL-Lecture/Basic/INNER_JOIN.sql)
+[INNER_jOIN.sql](./Basic/INNER_JOIN.sql)
