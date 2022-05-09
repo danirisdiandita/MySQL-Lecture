@@ -1,4 +1,5 @@
 # MySQL-Lecture
 
-- [INNER_jOIN.sql](./Basic/INNER_JOIN.sql)
-- [LEFT_JOIN.sql](./Basic/LEFT_JOIN.sql)
+- [INNER_jOIN](./Basic/INNER_JOIN.sql)
+- [LEFT_JOIN](./Basic/LEFT_JOIN.sql)
+- [GROUPBY](./Basic/GROUPBY.sql)
