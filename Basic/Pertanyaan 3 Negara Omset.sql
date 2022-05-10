@@ -1,4 +1,3 @@
-# select * from payments; 
 WITH mytable as (
 SELECT 
 	t1.customerNumber, 
