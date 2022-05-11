@@ -1,7 +1,7 @@
 # MySQL-Lecture
 
-- [MENAMPILKAN_DATA](MySQL-Lecture\Basic\MENAMPILKAN DATA.sql)
-- []
+- [MENAMPILKAN_DATA](./Basic/MENAMPILKAN DATA.sql)
+- [TAMPIL_PER_KOLOM](./Basic/TAMPIL%20PER%20KOLOM.sql)
 - [INNER_jOIN](./Basic/INNER_JOIN.sql)
 - [LEFT_JOIN](./Basic/LEFT_JOIN.sql)
 - [GROUPBY](./Basic/GROUPBY.sql)
